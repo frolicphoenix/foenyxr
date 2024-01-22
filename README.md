@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi there 👋 
 
-**foenyxr/foenyxr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I am a Technical Designer with expertise in integrating design with programming, experienced in Level Design and a passion for creating immersive story-driven game experiences. 
 
 Here are some ideas to get you started:
 
