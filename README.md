@@ -14,5 +14,5 @@ During my free time, I love to work on digital art and website development. Curr
 
 ![OG_Portfoliopiece](https://images.squarespace-cdn.com/content/v1/631abf0c53e24b64ebdbdc65/1689564431524-9N86PYHQPNWPHJ5DN12Z/image-asset.jpeg?format=1500w)
 
-<img src="https://images.squarespace-cdn.com/content/v1/631abf0c53e24b64ebdbdc65/1689564431524-9N86PYHQPNWPHJ5DN12Z/image-asset.jpeg?format=1500w">
+<img align="right" src="https://images.squarespace-cdn.com/content/v1/631abf0c53e24b64ebdbdc65/1689564431524-9N86PYHQPNWPHJ5DN12Z/image-asset.jpeg?format=1500w">
 
