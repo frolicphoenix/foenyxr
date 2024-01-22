@@ -15,4 +15,15 @@ I have worked on several game jams and personal projects where I got hands-on ex
 During my free time, I love to work on digital art and website development. Currently, I am playing Genshin Impact and Hogwarts Legacy. 
 
 
+***Tools and software that I use:***
+
+| Engine | Tools | Software | 
+|--------|-------|----------|
+| Unreal Engine | C++ | Blender |
+| Unity | C# | Procerate |
+| Godot | Python | Github |
+| UEFN | Unreal Blueprints |  |
+
+
+
 
