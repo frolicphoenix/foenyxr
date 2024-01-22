@@ -1,6 +1,7 @@
-### Hi there 👋 
+## Hi there 👋
+## My name is **Pranjal Lokhande** 
 
-## I am a Technical Designer with expertise in integrating design with programming, experienced in Level Design and a passion for creating immersive story-driven game experiences. 
+### I am a Technical Designer with expertise in integrating design with programming, experienced in Level Design and a passion for creating immersive story-driven game experiences. 
 
 Here are some ideas to get you started:
 
