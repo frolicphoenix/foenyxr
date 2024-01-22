@@ -1,4 +1,4 @@
-## Hi there 👋 My name is **Pranjall**. 
+## Hi there, my name is **Pranjall**. 👋
 
 [Portfolio website](https://www.pranjallokhande.com/)
 
