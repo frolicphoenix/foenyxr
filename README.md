@@ -12,6 +12,6 @@ I have worked on several game jams and personal projects where I got hands-on ex
 
 During my free time, I love to work on digital art and website development. Currently, I am playing Genshin Impact and Hogwarts Legacy. 
 
-![https://images.squarespace-cdn.com/content/v1/631abf0c53e24b64ebdbdc65/1689564431524-9N86PYHQPNWPHJ5DN12Z/image-asset.jpeg?format=1500w]
+![OG_Portfoliopiece](https://images.squarespace-cdn.com/content/v1/631abf0c53e24b64ebdbdc65/1689564431524-9N86PYHQPNWPHJ5DN12Z/image-asset.jpeg?format=1500w)
 
 
