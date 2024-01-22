@@ -17,7 +17,7 @@ During my free time, I love to work on digital art and website development. Curr
 
 ***Tools and software that I use:***
 
-| Engine | Tools | Software | 
+| Software | 
 |--------|-------|----------|
 | Unreal Engine | C++ | Blender |
 | Unity | C# | Procerate |
