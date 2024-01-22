@@ -12,8 +12,8 @@ Currently, working on my skills as a **_Technical Game Designer_** and **_Web De
 
 I have worked on several game jams and personal projects where I got hands-on experience with level design, coding and blueprints, gameplay mechanics and features, world settings, asset placements, and 2D/3D design.
 
-
-During my free time, I love to work on digital art and website development. Currently, I am playing Genshin Impact and Hogwarts Legacy. 
+ 
+During my free time, I love to work on [digital art](https://www.pranjallokhande.com/gallery) and [website development](https://codepen.io/frolicphoenix). Currently, I am playing _Genshin Impact_ and _Hogwarts Legacy_. 
 
 
 ***Tools and software that I use:***
