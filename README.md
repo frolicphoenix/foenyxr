@@ -17,7 +17,6 @@ During my free time, I love to work on [digital art](https://www.pranjallokhande
 
 
 ***Tools and software that I use:***
-
 | Tools and Software |  |  |  |
 |--------|-------|----------|---------|
 | Unreal Engine | C++ | Blender | Rapis prototyping |
