@@ -1,6 +1,5 @@
 ## Hi there, my name is **Pranjall**. 👋
-
-[Portfolio website](https://www.pranjallokhande.com/)  
+ 
 Connect with me on [LinkedIn](https://www.linkedin.com/in/pranjallokhande/)!
 
 ### I am a Technical Designer with expertise in integrating design with programming, experienced in Level Design and a passion for creating immersive story-driven game experiences. 
