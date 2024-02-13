@@ -14,14 +14,6 @@ I have worked on several game jams and personal projects where I got hands-on ex
 During my free time, I love to work on [digital art](https://www.pranjallokhande.com/gallery) and [website development](https://codepen.io/frolicphoenix). Currently, I am playing _Genshin Impact_ and _Hogwarts Legacy_. 
 
 
-**Tools and software that I use:**
-
-| Tools and Software |  |  |  |
-|--------|-------|----------|---------|
-| Unreal Engine | C++ | Blender | Rapis prototyping |
-| Unity | C# | Procerate | Quality Assurance |
-| Godot | Python | Github | Story-boarding |
-| UEFN | Unreal Blueprints | Verse | Javascript |
 
 
 
