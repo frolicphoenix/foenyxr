@@ -3,7 +3,7 @@
 Connect with me on [LinkedIn](https://www.linkedin.com/in/pranjallokhande/)!
 
 ### I am a Technical Designer with expertise in integrating design with programming, experienced in Level Design and a passion for creating immersive story-driven game experiences. 
-/*<img align="right" src="https://images.squarespace-cdn.com/content/v1/631abf0c53e24b64ebdbdc65/1689564431524-9N86PYHQPNWPHJ5DN12Z/image-asset.jpeg?format=1500w" width="500">*/
+
 
 Currently, working on my skills as a **_Technical Game Designer_** and **_Web Developer_**.
 
